@@ -8,7 +8,7 @@ Splash Container / Wrapper
     max-width: 375px;
     padding: 15px;
     margin: auto;
-    background-color: #E2DFD2;
+    background-color: #E9DCC9;
 }
 
 .splash-container .card-header {
