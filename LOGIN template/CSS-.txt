@@ -35,3 +35,8 @@ Splash Container / Wrapper
 .splash-container .card-footer-item {
     padding: 12px 28px;
 }
+
+#icons {
+    position: relative;
+    margin-left: 37%;
+}
